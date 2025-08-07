@@ -74,10 +74,10 @@ header {
     font-size:34px; font-family:play; color:#bbb;
     letter-spacing:-2px;
 }
-.txt b { font:bold 34px arial; color:#b9fb05; margin-left:20px; }
+.txt b { font:bold 34px arial; color:#980000; margin-left:20px; }
 .tit {
     position:absolute; top:0; right:0;
-    font-size:160px; color:#b9fb05;
+    font-size:160px; color:#b70000;
     font-family:'Monoton', cursive; letter-spacing:-1px;
 }
 .tit em { font-size:50px; font-family:play; color:#fff; }
